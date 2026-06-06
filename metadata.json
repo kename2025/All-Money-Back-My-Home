@@ -1,0 +1,8 @@
+{
+  "name": "Remix: All Money Back My Home",
+  "description": "Interactive full-page music H5 showcasing the top 10 billionaires with custom CSS effects, mini-games, and falling gold coin graphics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
